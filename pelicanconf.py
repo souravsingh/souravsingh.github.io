@@ -7,7 +7,7 @@ SITENAME = u"Sourav's Blog"
 SITEURL = ''
 SITETITLE = AUTHOR
 PATH = 'content'
-THEME = "../Flex"
+THEME = "eevee"
 TIMEZONE = 'Asia/Kolkata'
 
 DEFAULT_LANG = u'en'
