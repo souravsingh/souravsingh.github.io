@@ -7,7 +7,7 @@ SITENAME = u"Sourav's Blog"
 SITEURL = ''
 SITETITLE = AUTHOR
 PATH = 'content'
-THEME = u"/pelican-themes/Flex"
+THEME = "/pelican-themes/Flex"
 TIMEZONE = 'Asia/Kolkata'
 
 DEFAULT_LANG = u'en'
