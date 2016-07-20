@@ -1,5 +1,4 @@
 language: python
-sudo: required
 branches:
   only:
   - source
