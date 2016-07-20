@@ -1,0 +1,12 @@
+language: python
+sudo: required
+branches:
+  only:
+  - source
+env:
+  global:
+    secure: ""
+install:
+- pip install pelican ghp-import
+script:
+- make publish github
