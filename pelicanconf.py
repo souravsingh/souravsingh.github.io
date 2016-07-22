@@ -10,6 +10,9 @@ PATH = 'content'
 THEME = "eevee"
 TIMEZONE = 'Asia/Kolkata'
 
+THEME_PRIMARY = 'deep_orange'
+
+
 DEFAULT_LANG = u'en'
 
 TWITTER_USERNAME = "MrSouravSingh"
