@@ -15,6 +15,7 @@ THEME_PRIMARY = 'deep_orange'
 
 DEFAULT_LANG = u'en'
 
+DISQUS_SITENAME = "systechlog"
 TWITTER_USERNAME = "MrSouravSingh"
 GITHUB_URL = "https://github.com/souravsingh"
 
@@ -34,3 +35,4 @@ SOCIAL = (('Github', 'http://github.com/souravsingh'),
 
 DEFAULT_PAGINATION = False
 
+COMMENTS_ON_PAGES = True
