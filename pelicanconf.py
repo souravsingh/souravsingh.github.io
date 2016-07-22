@@ -13,8 +13,14 @@ TIMEZONE = 'Asia/Kolkata'
 THEME_PRIMARY = 'deep_orange'
 THEME_ACCENT = 'red'
 
-
+DISPLAY_PAGES_ON_MENU = False
 DEFAULT_LANG = u'en'
+
+DEFAULT_DATE_FORMAT = '%d %b %Y'
+
+DATE_FORMATS = {
+    'en': DEFAULT_DATE_FORMAT
+}
 
 DISQUS_SITENAME = "systechlog"
 TWITTER_USERNAME = "MrSouravSingh"
@@ -37,3 +43,5 @@ SOCIAL = (('Github', 'http://github.com/souravsingh'),
 DEFAULT_PAGINATION = False
 
 COMMENTS_ON_PAGES = True
+
+SUMMARY_MAX_LENGTH = 150
