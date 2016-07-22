@@ -11,6 +11,7 @@ THEME = "eevee"
 TIMEZONE = 'Asia/Kolkata'
 
 THEME_PRIMARY = 'deep_orange'
+THEME_ACCENT = 'red'
 
 
 DEFAULT_LANG = u'en'
