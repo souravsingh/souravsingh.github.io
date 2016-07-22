@@ -13,7 +13,7 @@ TIMEZONE = 'Asia/Kolkata'
 THEME_PRIMARY = 'deep_orange'
 THEME_ACCENT = 'red'
 
-DISPLAY_PAGES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = True
 DEFAULT_LANG = u'en'
 
 DEFAULT_DATE_FORMAT = '%d %b %Y'
