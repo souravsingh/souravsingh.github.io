@@ -8,25 +8,20 @@
     <meta property="og:type" content="article">
     {% if obj is defined %}
         <meta property="og:title"
-              content="{{ obj.title|striptags|escape }}">
+              content="{{ obj.title|striptags|escape|replace('¶', '') }}">
         <meta property="og:url"
               content="{{ SITEURL }}/{{ obj.url }}">
         <meta property="og:description"
-              content="{{ obj.summary|striptags|escape }}">
-        {% if obj.og_image %}
-            <meta property="og:image"
-                  content="{{ SITEURL }}/{{ obj.og_image }}">
-        {% elif OPEN_GRAPH_IMAGE %}
-            <meta property="og:image"
-                  content="{{ SITEURL }}/{{ OPEN_GRAPH_IMAGE }}">
-        {% endif %}
+              content="{{ obj.summary|striptags|escape|replace('¶', '') }}">
+        <meta property="og:image"
+              content="{{ SITEURL }}/{{ obj.url }}index.png">
     {% else %}
         <meta property="og:title"
-              content="{{ SITENAME|striptags|escape }}">
+              content="{{ SITENAME|striptags|escape|replace('¶', '') }}">
         <meta property="og:url" content="{{ SITEURL }}/{{ output_file }}">
-        {% if OPEN_GRAPH_IMAGE %}
-            <meta property="og:image"
-                  content="{{ SITEURL }}/{{ OPEN_GRAPH_IMAGE }}">
-        {% endif %}
+        <meta property="og:image"
+              content="{{ SITEURL }}/{{ output_file|replace('.html', '.png') }}">
     {% endif %}
+    <meta property="og:image:width" content="1920">
+    <meta property="og:image:height" content="1080">
 {% endif %}
