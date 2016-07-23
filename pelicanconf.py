@@ -13,6 +13,9 @@ TIMEZONE = 'Asia/Kolkata'
 THEME_PRIMARY = 'deep_orange'
 THEME_ACCENT = 'red'
 
+USE_TWITTER_CARDS = True
+USE_OPEN_GRAPH = True
+
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_LANG = u'en'
 
@@ -36,8 +39,8 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 
 # Social widget
-SOCIAL = (('Github', 'http://github.com/souravsingh'),
-          ('Twitter', 'http://twitter.com/MrSouravSingh'),
+SOCIAL = (('<i class="fa fa-github aria-hidden="true"></i> Github', 'http://github.com/souravsingh'),
+          ('<i class="fa fa-twitter aria-hidden="true"></i> Twitter', 'http://twitter.com/MrSouravSingh'),
 	('Reddit','http://reddit.com/user/DanSylverstere'))
 
 DEFAULT_PAGINATION = False
