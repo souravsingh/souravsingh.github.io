@@ -7,6 +7,8 @@ install:
 - pip install ghp-import
 - pip install pelican_gist
 - pip install markdown
+before_script:
+- pelican-themes -i ./theme/pelican-blue
 script:
 - make publish github
 env:
