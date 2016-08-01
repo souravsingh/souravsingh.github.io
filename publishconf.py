@@ -35,13 +35,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Social widget
-SOCIAL = (('email', 'ssouravsingh12@gmail.com'),
-	('twitter', 'https://twitter.com/MrSouravSingh'),
+SOCIAL = (('twitter', 'https://twitter.com/MrSouravSingh'),
 	('github', 'https://github.com/souravsingh'))
 
-DEFAULT_PAGINATION = 10
-
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
