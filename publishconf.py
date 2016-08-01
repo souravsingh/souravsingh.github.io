@@ -36,7 +36,8 @@ AUTHOR_FEED_RSS = None
 
 # Social widget
 SOCIAL = (('twitter', 'https://twitter.com/MrSouravSingh'),
-	('github', 'https://github.com/souravsingh'))
+	  ('github', 'https://github.com/souravsingh')
+	)
 
 DEFAULT_PAGINATION = False
 
