@@ -15,7 +15,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://souravsingh.github.com'
+SITEURL = 'https://souravsingh.github.io'
 RELATIVE_URLS = False
 
 AUTHOR = u'Sourav Singh'
