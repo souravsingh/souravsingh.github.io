@@ -51,4 +51,3 @@ THEME = "pelican-blue"
 
 
 DISQUS_SITENAME = "systechlog"
-
