@@ -7,16 +7,14 @@ SITENAME = u"Sourav's Blog"
 SITEURL = ''
 SITETITLE = AUTHOR
 PATH = 'content'
-THEME = "eevee"
+THEME = "pelican-blue"
 TIMEZONE = 'Asia/Kolkata'
 
-THEME_PRIMARY = 'deep_orange'
-THEME_ACCENT = 'red'
 
-USE_TWITTER_CARDS = True
-USE_OPEN_GRAPH = True
+BROWSER_COLOR = '#333333'
+PYGMENTS_STYLE = 'monokai'
 
-DISPLAY_PAGES_ON_MENU = True
+#DISPLAY_PAGES_ON_MENU = True
 DEFAULT_LANG = u'en'
 
 DEFAULT_DATE_FORMAT = '%d %b %Y'
@@ -26,8 +24,6 @@ DATE_FORMATS = {
 }
 
 DISQUS_SITENAME = "systechlog"
-TWITTER_USERNAME = "MrSouravSingh"
-GITHUB_URL = "https://github.com/souravsingh"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -39,9 +35,9 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 
 # Social widget
-SOCIAL = (('<i class="fa fa-github aria-hidden="true"></i> Github', 'http://github.com/souravsingh'),
-          ('<i class="fa fa-twitter aria-hidden="true"></i> Twitter', 'http://twitter.com/MrSouravSingh'),
-	('Reddit','http://reddit.com/user/DanSylverstere'))
+SOCIAL = (('github', 'https://github.com/souravsingh'),
+          ('twitter', 'https://twitter.com/MrSouravSingh'),
+          )
 
 DEFAULT_PAGINATION = False
 
