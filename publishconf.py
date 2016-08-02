@@ -26,6 +26,9 @@ TIMEZONE = 'Asia/Kolkata'
 
 DEFAULT_LANG = u'en'
 
+TWITTER_USERNAME="MrSouravSingh"
+
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 FEED_ALL_RSS = 'feeds/all.rss.xml'
