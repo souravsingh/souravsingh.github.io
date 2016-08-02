@@ -28,6 +28,8 @@ DEFAULT_LANG = u'en'
 
 TWITTER_USERNAME="MrSouravSingh"
 
+SIDEBAR_DIGEST = 'Programmer and an aspiring bioinformatician'
+
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
