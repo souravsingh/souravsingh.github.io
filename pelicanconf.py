@@ -12,6 +12,8 @@ TIMEZONE = 'Asia/Kolkata'
 
 TWITTER_USERNAME="MrSouravSingh"
 
+SIDEBAR_DIGEST = 'Programmer and an aspiring Bioinformatician'
+
 
 BROWSER_COLOR = '#333333'
 PYGMENTS_STYLE = 'monokai'
