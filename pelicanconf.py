@@ -10,6 +10,8 @@ PATH = 'content'
 THEME = "pelican-blue"
 TIMEZONE = 'Asia/Kolkata'
 
+TWITTER_USERNAME="MrSouravSingh"
+
 
 BROWSER_COLOR = '#333333'
 PYGMENTS_STYLE = 'monokai'
