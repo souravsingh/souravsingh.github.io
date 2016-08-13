@@ -4,7 +4,7 @@ Author: Sourav Singh
 
 # About Me
 
-I am a programmer a self-taught student in Bioinformatics, Neuroinformatics, Lingustics and Artificial Intelligence.
+I am a programmer and a self-taught student in Bioinformatics, Neuroinformatics, Lingustics and Artificial Intelligence.
 I enjoy taking up challenges and I like working solo.
 
 ## Favourite Technologies(no specific order):
