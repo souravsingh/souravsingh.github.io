@@ -4,7 +4,7 @@ Authors: Sourav Singh
 Tags: NRNB,jsbml,Java
 
 After a nice meeting with the mentors in the first week, We had our second meeting on Monday, 25th July. 
-In the meeting, we discussed about the problem in setting up the Eclipse for jSBML and the mentor, Andreas Drager, helped me in setting up Eclipse for the project.
+In the meeting, we discussed about the problem in setting up the Eclipse for jSBML and the mentor, Andreas Draeger, helped me in setting up Eclipse for the project.
 
 Thereafter, I was given the task of writing programs in jSBML which can allow a user to display a SBML model and writing to a SBML file.
 
