@@ -4,8 +4,8 @@ Author: Sourav Singh
 
 # About Me
 
-I am a student in Computer Engineering and a self-taught student in Bioinformatics, Neuroinformatics, Lingustics and Artificial Intelligence.
-I enjoy taking challenges and working in a team.
+I am a programmer a self-taught student in Bioinformatics, Neuroinformatics, Lingustics and Artificial Intelligence.
+I enjoy taking up challenges and I like working solo.
 
 ## Favourite Technologies(no specific order):
 - C++ 
