@@ -20,19 +20,29 @@ I enjoy taking challenges and working in a team.
   * nilearn
   * pandas
   * matplotlib
+  * micropython
 - R
+- Raspberry Pi
+- Arduino
+
 
 ## Specialities
 
 - Scientific Computing
 - Bioinformatics
 - FOSS
+- Neuroinformatics
 
 ## Interests
 
 - Philosophy
 - Martial Arts
 - Language Learning
+- Biology
+- Transhumanism
+- Biohacking
+- Music(Western Classical, Hip-Hop, Electronic)
+- Origami
 
 
 
