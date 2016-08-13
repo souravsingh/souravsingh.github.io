@@ -39,6 +39,7 @@ I enjoy taking challenges and working in a team.
 - Martial Arts
 - Language Learning
 - Biology
+- Chemistry(especially Organic Chemistry)
 - Transhumanism
 - Biohacking
 - Music(Western Classical, Hip-Hop, Electronic)
