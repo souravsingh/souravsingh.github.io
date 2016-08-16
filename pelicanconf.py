@@ -7,6 +7,7 @@ SITENAME = u"Sourav's Blog"
 SITEURL = 'https://souravsingh.github.io/'
 SITETITLE = AUTHOR
 PATH = 'content'
+
 THEME = "pelican-blue"
 TIMEZONE = 'Asia/Kolkata'
 
