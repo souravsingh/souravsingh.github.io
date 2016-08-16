@@ -20,7 +20,7 @@ We talked about setting up the first Django Project, creating a new model for wr
 
 ![Django Girls]({filename}/Images/IMG_20160806_181348.jpg)
 
-We ended the session with a group shot and gathered together for a small Q&A session together. Students asked questions ranging from Django to contributing to open-source, and to thank these students we gave them a copy of [Tracy Osborn's](https://twitter.com/limedaring) fantastic book [Hello Web App](https://hellowebapp.com/) 
+We ended the session with a group shot and gathered together for a small Q&A session together. Students asked questions ranging from Django to contributing to open-source, and to thank these students we gave them a copy of [Tracy Osborn's](https://twitter.com/limedaring) fantastic book [Hello Web App](https://hellowebapp.com/). 
 
 The workshop ended with a photo with all the mentors, mentees and organizer together.
 
