@@ -26,7 +26,7 @@ The workshop ended with a photo with all the mentors, mentees and organizer toge
 
 ![Django Girls](https://github.com/souravsingh/souravsingh.github.io/blob/source/content/Images/P_20160806_185932.jpg "Group Photo")
 
-The second iteration of the workshop was really great. It was a really great time interacting with the students and the mentors and I got a "This is how a Programmer should look like" t-shirt (which you can get from [here](https://store.djangogirls.org/collections/frontpage/products/this-is-what-a-programmer-looks-like)) and a couple of Django Girls stickers.Also, Big thanks to Tracy Osborn for providing the books! Everyone really loved the book!
+The second iteration of the workshop was really great. It was a really great time interacting with the students and the mentors and I got a "This is how a Programmer should look like" t-shirt (which you can get from [here](https://store.djangogirls.org/collections/frontpage/products/this-is-what-a-programmer-looks-like)) and a couple of Django Girls stickers. Also, Big thanks to Tracy Osborn for providing the books! Everyone really loved the book!
 
 There will be having a workshop in [Ahmedabad](https://djangogirls.org/ahmedabad/) and [Hyderabad](https://djangogirls.org/hyderabad/) in a few days. You can find the photos of the event [here](https://drive.google.com/folderview?id=0B7Bi1E2Qh_sFRW1hcFJUOTByU0k&usp=sharing).
 
